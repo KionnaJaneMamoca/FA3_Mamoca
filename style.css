@@ -30,7 +30,7 @@ p {
 body span {
     font-style: italic;
 	font-weight: bold; 
-    color: #ffffff;
+    color: (255,255,255);
     margin: 2px;
     margin-left: 5px;
     margin-right: 5px;
